@@ -22,7 +22,9 @@ class BagMain {
                 ((HandBag) bag).enhance();
             }
 
-            ((Bag) bag).enhance();
+            else{
+                ((Bag) bag).enhance();
+            }
         }
     }
 
